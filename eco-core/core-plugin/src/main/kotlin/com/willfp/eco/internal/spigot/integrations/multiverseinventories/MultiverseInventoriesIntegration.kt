@@ -1,6 +1,6 @@
 package com.willfp.eco.internal.spigot.integrations.multiverseinventories
 
-import com.onarandombox.multiverseinventories.event.WorldChangeShareHandlingEvent
+import org.mvplugins.multiverse.inventories.event.WorldChangeShareHandlingEvent
 import com.willfp.eco.core.EcoPlugin
 import com.willfp.eco.core.events.ArmorChangeEvent
 import org.bukkit.Bukkit
